@@ -1,0 +1,479 @@
+# 自动生成的菜谱数据库
+RECIPES_DATABASE = {
+  "早餐": [
+    {
+      "name": "吐司果酱 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E5%90%90%E5%8F%B8%E6%9E%9C%E9%85%B1.md"
+    },
+    {
+      "name": "太阳蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E5%A4%AA%E9%98%B3%E8%9B%8B.md"
+    },
+    {
+      "name": "完美水煮蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E5%AE%8C%E7%BE%8E%E6%B0%B4%E7%85%AE%E8%9B%8B.md"
+    },
+    {
+      "name": "微波炉荷包蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E5%BE%AE%E6%B3%A2%E7%82%89%E8%8D%B7%E5%8C%85%E8%9B%8B.md"
+    },
+    {
+      "name": "微波炉蛋糕 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E5%BE%AE%E6%B3%A2%E7%82%89%E8%9B%8B%E7%B3%95.md"
+    },
+    {
+      "name": "手抓饼 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E6%89%8B%E6%8A%93%E9%A5%BC.md"
+    },
+    {
+      "name": "桂圆红枣粥 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E6%A1%82%E5%9C%86%E7%BA%A2%E6%9E%A3%E7%B2%A5.md"
+    },
+    {
+      "name": "水煮玉米 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E6%B0%B4%E7%85%AE%E7%8E%89%E7%B1%B3.md"
+    },
+    {
+      "name": "温泉蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E6%B8%A9%E6%B3%89%E8%9B%8B/%E6%B8%A9%E6%B3%89%E8%9B%8B.md"
+    },
+    {
+      "name": "溏心蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E6%BA%8F%E5%BF%83%E8%9B%8B.md"
+    },
+    {
+      "name": "煎饺 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E7%85%8E%E9%A5%BA.md"
+    },
+    {
+      "name": "燕麦鸡蛋饼 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E7%87%95%E9%BA%A6%E9%B8%A1%E8%9B%8B%E9%A5%BC.md"
+    },
+    {
+      "name": "牛奶燕麦 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E7%89%9B%E5%A5%B6%E7%87%95%E9%BA%A6.md"
+    },
+    {
+      "name": "空气炸锅面包片 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E9%9D%A2%E5%8C%85%E7%89%87.md"
+    },
+    {
+      "name": "美式炒蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E7%BE%8E%E5%BC%8F%E7%82%92%E8%9B%8B.md"
+    },
+    {
+      "name": "苏格兰蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E8%8B%8F%E6%A0%BC%E5%85%B0%E8%9B%8B/%E8%8B%8F%E6%A0%BC%E5%85%B0%E8%9B%8B.md"
+    },
+    {
+      "name": "茶叶蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E8%8C%B6%E5%8F%B6%E8%9B%8B.md"
+    },
+    {
+      "name": "蒸水蛋 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E8%92%B8%E6%B0%B4%E8%9B%8B.md"
+    },
+    {
+      "name": "蒸花卷 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E8%92%B8%E8%8A%B1%E5%8D%B7.md"
+    },
+    {
+      "name": "蛋煎糍粑 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E8%9B%8B%E7%85%8E%E7%B3%8D%E7%B2%91.md"
+    },
+    {
+      "name": "金枪鱼酱三明治 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E9%87%91%E6%9E%AA%E9%B1%BC%E9%85%B1%E4%B8%89%E6%98%8E%E6%B2%BB.md"
+    },
+    {
+      "name": "鸡蛋三明治 + 牛奶/豆浆/粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/%E9%B8%A1%E8%9B%8B%E4%B8%89%E6%98%8E%E6%B2%BB.md"
+    }
+  ],
+  "午餐": [
+    {
+      "name": "乡村啤酒鸭 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E4%B9%A1%E6%9D%91%E5%95%A4%E9%85%92%E9%B8%AD.md"
+    },
+    {
+      "name": "农家一碗香 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%86%9C%E5%AE%B6%E4%B8%80%E7%A2%97%E9%A6%99/%E5%86%9C%E5%AE%B6%E4%B8%80%E7%A2%97%E9%A6%99.md"
+    },
+    {
+      "name": "冬瓜酿肉 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%86%AC%E7%93%9C%E9%85%BF%E8%82%89/%E5%86%AC%E7%93%9C%E9%85%BF%E8%82%89.md"
+    },
+    {
+      "name": "冷吃兔 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%86%B7%E5%90%83%E5%85%94.md"
+    },
+    {
+      "name": "凉拌鸡丝 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D.md"
+    },
+    {
+      "name": "卤菜 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%8D%A4%E8%8F%9C/%E5%8D%A4%E8%8F%9C.md"
+    },
+    {
+      "name": "口水鸡 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%8F%A3%E6%B0%B4%E9%B8%A1/%E5%8F%A3%E6%B0%B4%E9%B8%A1.md"
+    },
+    {
+      "name": "可乐鸡翅 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85.md"
+    },
+    {
+      "name": "台式卤肉饭 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%8F%B0%E5%BC%8F%E5%8D%A4%E8%82%89%E9%A5%AD/%E5%8F%B0%E5%BC%8F%E5%8D%A4%E8%82%89%E9%A5%AD.md"
+    },
+    {
+      "name": "咕噜肉 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%92%95%E5%99%9C%E8%82%89.md"
+    },
+    {
+      "name": "咖喱肥牛 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%92%96%E5%96%B1%E8%82%A5%E7%89%9B/%E5%92%96%E5%96%B1%E8%82%A5%E7%89%9B.md"
+    },
+    {
+      "name": "商芝肉 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%95%86%E8%8A%9D%E8%82%89.md"
+    },
+    {
+      "name": "啤酒鸭 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%95%A4%E9%85%92%E9%B8%AD/%E5%95%A4%E9%85%92%E9%B8%AD.md"
+    },
+    {
+      "name": "回锅肉 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%9B%9E%E9%94%85%E8%82%89/%E5%9B%9E%E9%94%85%E8%82%89.md"
+    },
+    {
+      "name": "土豆炖排骨 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%9C%9F%E8%B1%86%E7%82%96%E6%8E%92%E9%AA%A8/%E5%9C%9F%E8%B1%86%E7%82%96%E6%8E%92%E9%AA%A8.md"
+    },
+    {
+      "name": "奶酪培根通心粉 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%A5%B6%E9%85%AA%E5%9F%B9%E6%A0%B9%E9%80%9A%E5%BF%83%E7%B2%89/%E5%A5%B6%E9%85%AA%E5%9F%B9%E6%A0%B9%E9%80%9A%E5%BF%83%E7%B2%89.md"
+    },
+    {
+      "name": "姜炒鸡 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%A7%9C%E7%82%92%E9%B8%A1/%E5%A7%9C%E7%82%92%E9%B8%A1.md"
+    },
+    {
+      "name": "姜葱捞鸡 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%A7%9C%E8%91%B1%E6%8D%9E%E9%B8%A1/%E5%A7%9C%E8%91%B1%E6%8D%9E%E9%B8%A1.md"
+    },
+    {
+      "name": "孜然牛肉 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%AD%9C%E7%84%B6%E7%89%9B%E8%82%89.md"
+    },
+    {
+      "name": "宫保鸡丁 + 青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%AE%AB%E4%BF%9D%E9%B8%A1%E4%B8%81/%E5%AE%AB%E4%BF%9D%E9%B8%A1%E4%B8%81.md"
+    },
+    {
+      "name": "上汤娃娃菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E4%B8%8A%E6%B1%A4%E5%A8%83%E5%A8%83%E8%8F%9C/%E4%B8%8A%E6%B1%A4%E5%A8%83%E5%A8%83%E8%8F%9C.md"
+    },
+    {
+      "name": "凉拌木耳 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E6%9C%A8%E8%80%B3/%E5%87%89%E6%8B%8C%E6%9C%A8%E8%80%B3.md"
+    },
+    {
+      "name": "凉拌油麦菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E6%B2%B9%E9%BA%A6%E8%8F%9C.md"
+    },
+    {
+      "name": "凉拌莴笋 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E8%8E%B4%E7%AC%8B/%E5%87%89%E6%8B%8C%E8%8E%B4%E7%AC%8B.md"
+    },
+    {
+      "name": "凉拌豆腐 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E8%B1%86%E8%85%90.md"
+    },
+    {
+      "name": "凉拌金针菇 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E9%87%91%E9%92%88%E8%8F%87.md"
+    },
+    {
+      "name": "凉拌黄瓜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E9%BB%84%E7%93%9C.md"
+    },
+    {
+      "name": "包菜炒鸡蛋粉丝 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%8C%85%E8%8F%9C%E7%82%92%E9%B8%A1%E8%9B%8B%E7%B2%89%E4%B8%9D/%E5%8C%85%E8%8F%9C%E7%82%92%E9%B8%A1%E8%9B%8B%E7%B2%89%E4%B8%9D.md"
+    },
+    {
+      "name": "地三鲜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%9C%B0%E4%B8%89%E9%B2%9C.md"
+    },
+    {
+      "name": "小炒藕丁 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%B0%8F%E7%82%92%E8%97%95%E4%B8%81/%E5%B0%8F%E7%82%92%E8%97%95%E4%B8%81.md"
+    },
+    {
+      "name": "咖喱炒蟹 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/%E5%92%96%E5%96%B1%E7%82%92%E8%9F%B9.md"
+    },
+    {
+      "name": "小龙虾 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/%E5%B0%8F%E9%BE%99%E8%99%BE/%E5%B0%8F%E9%BE%99%E8%99%BE.md"
+    },
+    {
+      "name": "干煎阿根廷红虾 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/%E5%B9%B2%E7%85%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BA%A2%E8%99%BE/%E5%B9%B2%E7%85%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BA%A2%E8%99%BE.md"
+    },
+    {
+      "name": "微波葱姜黑鳕鱼 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/%E5%BE%AE%E6%B3%A2%E8%91%B1%E5%A7%9C%E9%BB%91%E9%B3%95%E9%B1%BC.md"
+    },
+    {
+      "name": "水煮鱼 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/%E6%B0%B4%E7%85%AE%E9%B1%BC.md"
+    }
+  ],
+  "晚餐": [
+    {
+      "name": "干锅花菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E5%B9%B2%E9%94%85%E8%8A%B1%E8%8F%9C/%E5%B9%B2%E9%94%85%E8%8A%B1%E8%8F%9C.md"
+    },
+    {
+      "name": "手撕包菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C.md"
+    },
+    {
+      "name": "拔丝土豆 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%8B%94%E4%B8%9D%E5%9C%9F%E8%B1%86/%E6%8B%94%E4%B8%9D%E5%9C%9F%E8%B1%86.md"
+    },
+    {
+      "name": "松仁玉米 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%9D%BE%E4%BB%81%E7%8E%89%E7%B1%B3.md"
+    },
+    {
+      "name": "椒盐玉米 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%A4%92%E7%9B%90%E7%8E%89%E7%B1%B3/%E6%A4%92%E7%9B%90%E7%8E%89%E7%B1%B3.md"
+    },
+    {
+      "name": "榄菜肉末四季豆 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%A6%84%E8%8F%9C%E8%82%89%E6%9C%AB%E5%9B%9B%E5%AD%A3%E8%B1%86/%E6%A6%84%E8%8F%9C%E8%82%89%E6%9C%AB%E5%9B%9B%E5%AD%A3%E8%B1%86.md"
+    },
+    {
+      "name": "水油焖蔬菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%B0%B4%E6%B2%B9%E7%84%96%E8%94%AC%E8%8F%9C.md"
+    },
+    {
+      "name": "油醋爆蛋 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%B2%B9%E9%86%8B%E7%88%86%E8%9B%8B.md"
+    },
+    {
+      "name": "洋葱炒鸡蛋 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%B4%8B%E8%91%B1%E7%82%92%E9%B8%A1%E8%9B%8B/%E6%B4%8B%E8%91%B1%E7%82%92%E9%B8%A1%E8%9B%8B.md"
+    },
+    {
+      "name": "清炒花菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%B8%85%E7%82%92%E8%8A%B1%E8%8F%9C.md"
+    },
+    {
+      "name": "清蒸南瓜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E6%B8%85%E8%92%B8%E5%8D%97%E7%93%9C.md"
+    },
+    {
+      "name": "炒滑蛋 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E7%82%92%E6%BB%91%E8%9B%8B/%E7%82%92%E6%BB%91%E8%9B%8B.md"
+    },
+    {
+      "name": "炒茄子 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E7%82%92%E8%8C%84%E5%AD%90.md"
+    },
+    {
+      "name": "炒青菜 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E7%82%92%E9%9D%92%E8%8F%9C.md"
+    },
+    {
+      "name": "烤茄子 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/vegetable_dish/%E7%83%A4%E8%8C%84%E5%AD%90/%E7%83%A4%E8%8C%84%E5%AD%90.md"
+    },
+    {
+      "name": "小炒肉 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B0%8F%E7%82%92%E8%82%89.md"
+    },
+    {
+      "name": "小炒鸡肝 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B0%8F%E7%82%92%E9%B8%A1%E8%82%9D/%E5%B0%8F%E7%82%92%E9%B8%A1%E8%82%9D.md"
+    },
+    {
+      "name": "小炒黄牛肉 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B0%8F%E7%82%92%E9%BB%84%E7%89%9B%E8%82%89/%E5%B0%8F%E7%82%92%E9%BB%84%E7%89%9B%E8%82%89.md"
+    },
+    {
+      "name": "小米辣炒肉 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B0%8F%E7%B1%B3%E8%BE%A3%E7%82%92%E8%82%89.md"
+    },
+    {
+      "name": "小酥肉 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B0%8F%E9%85%A5%E8%82%89.md"
+    },
+    {
+      "name": "尖叫牛蛙 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B0%96%E5%8F%AB%E7%89%9B%E8%9B%99/%E5%B0%96%E5%8F%AB%E7%89%9B%E8%9B%99.md"
+    },
+    {
+      "name": "尖椒炒牛肉 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B0%96%E6%A4%92%E7%82%92%E7%89%9B%E8%82%89.md"
+    },
+    {
+      "name": "山西过油肉 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B1%B1%E8%A5%BF%E8%BF%87%E6%B2%B9%E8%82%89.md"
+    },
+    {
+      "name": "巴基斯坦牛肉咖喱 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%89%9B%E8%82%89%E5%92%96%E5%96%B1/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%89%9B%E8%82%89%E5%92%96%E5%96%B1.md"
+    },
+    {
+      "name": "带把肘子 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B8%A6%E6%8A%8A%E8%82%98%E5%AD%90.md"
+    },
+    {
+      "name": "干煸仔鸡 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B9%B2%E7%85%B8%E4%BB%94%E9%B8%A1/%E5%B9%B2%E7%85%B8%E4%BB%94%E9%B8%A1.md"
+    },
+    {
+      "name": "广式萝卜牛腩 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%B9%BF%E5%BC%8F%E8%90%9D%E5%8D%9C%E7%89%9B%E8%85%A9/%E5%B9%BF%E5%BC%8F%E8%90%9D%E5%8D%9C%E7%89%9B%E8%85%A9.md"
+    },
+    {
+      "name": "徽派红烧肉 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89.md"
+    },
+    {
+      "name": "意式烤鸡 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E6%84%8F%E5%BC%8F%E7%83%A4%E9%B8%A1.md"
+    },
+    {
+      "name": "新疆大盘鸡 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E6%96%B0%E7%96%86%E5%A4%A7%E7%9B%98%E9%B8%A1/%E6%96%B0%E7%96%86%E5%A4%A7%E7%9B%98%E9%B8%A1.md"
+    },
+    {
+      "name": "勾芡香菇汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E5%8B%BE%E8%8A%A1%E9%A6%99%E8%8F%87%E6%B1%A4/%E5%8B%BE%E8%8A%A1%E9%A6%99%E8%8F%87%E6%B1%A4.md"
+    },
+    {
+      "name": "奶油蘑菇汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E5%A5%B6%E6%B2%B9%E8%98%91%E8%8F%87%E6%B1%A4.md"
+    },
+    {
+      "name": "小米粥 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E5%B0%8F%E7%B1%B3%E7%B2%A5.md"
+    },
+    {
+      "name": "排骨苦瓜汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E6%8E%92%E9%AA%A8%E8%8B%A6%E7%93%9C%E6%B1%A4/%E6%8E%92%E9%AA%A8%E8%8B%A6%E7%93%9C%E6%B1%A4.md"
+    },
+    {
+      "name": "昂刺鱼豆腐汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E6%98%82%E5%88%BA%E9%B1%BC%E8%B1%86%E8%85%90%E6%B1%A4/%E6%98%82%E5%88%BA%E9%B1%BC%E8%B1%86%E8%85%90%E6%B1%A4.md"
+    },
+    {
+      "name": "朱雀汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E6%9C%B1%E9%9B%80%E6%B1%A4/%E6%9C%B1%E9%9B%80%E6%B1%A4.md"
+    },
+    {
+      "name": "玉米排骨汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%E6%B1%A4/%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%E6%B1%A4.md"
+    },
+    {
+      "name": "生汆丸子汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E7%94%9F%E6%B1%86%E4%B8%B8%E5%AD%90%E6%B1%A4.md"
+    },
+    {
+      "name": "番茄牛肉蛋花汤 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E7%95%AA%E8%8C%84%E7%89%9B%E8%82%89%E8%9B%8B%E8%8A%B1%E6%B1%A4.md"
+    },
+    {
+      "name": "皮蛋瘦肉粥 + 米饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/%E7%9A%AE%E8%9B%8B%E7%98%A6%E8%82%89%E7%B2%A5.md"
+    }
+  ],
+  "加餐": [
+    {
+      "name": "反沙芋头",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E5%8F%8D%E6%B2%99%E8%8A%8B%E5%A4%B4/%E5%8F%8D%E6%B2%99%E8%8A%8B%E5%A4%B4.md"
+    },
+    {
+      "name": "咖啡椰奶冻",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E5%92%96%E5%95%A1%E6%A4%B0%E5%A5%B6%E5%86%BB/%E5%92%96%E5%95%A1%E6%A4%B0%E5%A5%B6%E5%86%BB.md"
+    },
+    {
+      "name": "奥利奥冰淇淋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E5%A5%A5%E5%88%A9%E5%A5%A5%E5%86%B0%E6%B7%87%E6%B7%8B/%E5%A5%A5%E5%88%A9%E5%A5%A5%E5%86%B0%E6%B7%87%E6%B7%8B.md"
+    },
+    {
+      "name": "戚风蛋糕",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E6%88%9A%E9%A3%8E%E8%9B%8B%E7%B3%95/%E6%88%9A%E9%A3%8E%E8%9B%8B%E7%B3%95.md"
+    },
+    {
+      "name": "提拉米苏",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F/%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F.md"
+    },
+    {
+      "name": "无厨师机蜂蜜面包",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E6%97%A0%E5%8E%A8%E5%B8%88%E6%9C%BA%E8%9C%82%E8%9C%9C%E9%9D%A2%E5%8C%85/%E6%97%A0%E5%8E%A8%E5%B8%88%E6%9C%BA%E8%9C%82%E8%9C%9C%E9%9D%A2%E5%8C%85.md"
+    },
+    {
+      "name": "炸鲜奶",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E7%82%B8%E9%B2%9C%E5%A5%B6/%E7%82%B8%E9%B2%9C%E5%A5%B6.md"
+    },
+    {
+      "name": "烤箱版巴斯克芝士蛋糕",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E7%83%A4%E7%AE%B1%E7%89%88%E5%B7%B4%E6%96%AF%E5%85%8B%E8%8A%9D%E5%A3%AB%E8%9B%8B%E7%B3%95/%E7%83%A4%E7%AE%B1%E7%89%88%E5%B7%B4%E6%96%AF%E5%85%8B%E8%8A%9D%E5%A3%AB%E8%9B%8B%E7%B3%95.md"
+    },
+    {
+      "name": "烤蛋挞",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E7%83%A4%E8%9B%8B%E6%8C%9E/%E7%83%A4%E8%9B%8B%E6%8C%9E.md"
+    },
+    {
+      "name": "玛格丽特饼干",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/%E7%8E%9B%E6%A0%BC%E4%B8%BD%E7%89%B9%E9%A5%BC%E5%B9%B2/%E7%8E%9B%E6%A0%BC%E4%B8%BD%E7%89%B9%E9%A5%BC%E5%B9%B2.md"
+    },
+    {
+      "name": "苹果",
+      "url": ""
+    },
+    {
+      "name": "香蕉",
+      "url": ""
+    },
+    {
+      "name": "橙子",
+      "url": ""
+    },
+    {
+      "name": "葡萄",
+      "url": ""
+    },
+    {
+      "name": "草莓",
+      "url": ""
+    },
+    {
+      "name": "蓝莓",
+      "url": ""
+    },
+    {
+      "name": "猕猴桃",
+      "url": ""
+    },
+    {
+      "name": "柚子",
+      "url": ""
+    },
+    {
+      "name": "梨",
+      "url": ""
+    },
+    {
+      "name": "桃子",
+      "url": ""
+    }
+  ]
+}
