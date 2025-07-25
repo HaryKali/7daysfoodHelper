@@ -56,4 +56,4 @@ This is a Gradio-based 7-day meal planning assistant with the following features
 1. Run the application: `python app.py`
 2. Enter the start date in the web interface (optional)
 3. The system will automatically generate a 7-day meal plan
-4. Supports multiple date formats: YYYY-MM-DD or YYYY年MM月DD日
+4. Supports multiple date formats: YYYY-MM-DD or YYYY年MM月DD
